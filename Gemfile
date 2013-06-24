@@ -12,6 +12,8 @@ gem "paperclip", "~> 3.0"
 
 gem 'masonry-rails'
 
+gem 'aws-sdk'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
