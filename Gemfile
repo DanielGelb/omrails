@@ -10,6 +10,8 @@ gem 'simple_form'
 
 gem "paperclip", "~> 3.0"
 
+gem 'masonry-rails'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
