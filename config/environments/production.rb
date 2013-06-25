@@ -20,7 +20,7 @@ Omrail::Application.configure do
   # Generate digests for assets URLs
   config.assets.digest = true
 
-# Configuring Amazon S3 for Paperclip file uploads
+  # Configuring Amazon S3 for Paperclip file uploads
   config.paperclip_defaults = {
     :storage => :s3,
     :s3_credentials => {
